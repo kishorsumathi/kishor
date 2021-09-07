@@ -1,2 +1,2 @@
 # kishor
-My GitHub acvount
+My GitHub account
